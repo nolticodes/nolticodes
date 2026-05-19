@@ -51,7 +51,7 @@ Repo: https://github.com/nolticodes/game_jump_and_run_el_pollo_loco
 ### Pokédex App
 Interactive Pokédex using the PokéAPI with dynamic rendering, search and pagination.
 
-Repo: [pokedex_app](https://github.com/nolticodes/pokedex_app)
+Repo: (https://github.com/nolticodes/pokedex_app)
 
 ---
 
@@ -69,12 +69,12 @@ Repo: https://github.com/nolticodes/bookstore_app
 
 ---
 
-## Currently Learning
+## Currently Expanding Into
 
-- Advanced JavaScript
-- Backend fundamentals
-- Performance optimization
-- Better application architecture
+- Backend development
+- Databases
+- Fullstack application architecture
+- More advanced software structure and scalability
 
 ---
 
